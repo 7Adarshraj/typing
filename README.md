@@ -1,0 +1,2 @@
+# typing
+A javascript project
